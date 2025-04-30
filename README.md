@@ -1,6 +1,8 @@
 exportar-caratulas-itunes
 es un script en powershell que te permite hacer un backup de todas tus carátulas de itunes para poder usarlas en cualquier lado.
 
+[![itunes-backup.jpg](https://i.postimg.cc/L8LKzrb7/itunes-backup.jpg)](https://postimg.cc/TKd4xHGq)
+
 En el caso de que aparezca este error cuando es ejecutado: 
 ./exportar-caratulas-itunes.ps1 : No se puede cargar el archivo
 C:\Users\usuario\Desktop\exportar-caratulas-itunes.ps1 porque la ejecución de scripts está deshabilitada en este sistema. Para obtener más información, consulta el tema about_Execution_Policies en
